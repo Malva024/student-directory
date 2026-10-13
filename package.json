@@ -1,0 +1,24 @@
+{
+  "name": "student-directory-assignment",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "bootstrap": "^5.3.3",
+    "vite": "^6.0.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {},
+  "description": "A single-page React implementation of the provided StudentPortal directory reference. It uses React components and props, Bootstrap 5, `useState`, event handlers, conditional rendering, search, pagination, a dismissible alert, and responsive cards.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
